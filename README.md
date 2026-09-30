@@ -4,4 +4,4 @@ A small console quiz project for CSE1021 (Introduction to Problem Solving and Pr
 
 Run it with:
 
-python3 quiz_master.py
+python3 quiz_master.py 
